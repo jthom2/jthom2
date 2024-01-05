@@ -1,16 +1,27 @@
-### Hi there 👋
+# Jackson Thomas
 
-<!--
-**jthom2/jthom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbring2&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,mongodb,redis,sqlite,aws,gitlab,github)](https://skillicons.dev)
+
+
+---
+
+### 🖐 How many ppl visited bbringworld 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbring2&count_bg=%23FF7F50&title_bg=%23D2B48C&icon=apachecassandra.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+### ⌨️ My github history <br> 
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bbring2&show_icons=true&theme=radical&hide_border=true&border_radius=8)
+---
+
+
+### ❔ How's Algorithm Studying going
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jennachoi27)](https://github.com/KnlnKS/leetcode-stats)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+ 
+</div>
