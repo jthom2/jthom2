@@ -5,7 +5,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,mongodb,redis,sqlite,aws,gitlab,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,mongodb,redis,aws,gitlab,github)](https://skillicons.dev)
 
 
 ---
