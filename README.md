@@ -1,3 +1,6 @@
+<div align="center">
+
+
 ![Jackson Thomas](https://github-readme-stats-sigma-five.vercel.app/api?username=jthom2&show_icons=true&theme=radical&hide_border=true&border_radius=8)
 
 
@@ -6,4 +9,6 @@
 
 
 ---
+
+</div>
 
